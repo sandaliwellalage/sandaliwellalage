@@ -9,7 +9,7 @@ We specialize in **Quality Assurance** and **Software Testing**, ensuring your a
 - 🔍 We provide **manual and automated testing** services to enhance software quality.
 - 🚀 Our team is skilled in **performance testing, security testing, and functional testing**.
 - 💬 Ask us about **QA best practices, test automation, and software reliability**.
-- 📫 Contact us: [contact@example.com](mailto:contact@example.com)
+- 📫 Contact us: [contact@example.com](mailto:wellalagesa@gmail.com)
 - 🌍 Serving clients worldwide with expert **QA consulting and testing solutions**.
 
 ## Our Expertise
