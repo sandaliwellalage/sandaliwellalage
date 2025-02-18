@@ -52,7 +52,7 @@ We offer comprehensive QA solutions:
 
 ## GitHub Stats
 
-![YourQAProfile's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourQAProfile&show_icons=true&theme=radical)
+![YourQAProfile's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaliwelalage_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourQAProfile&layout=compact&theme=radical)
 
 ## Connect with Us
