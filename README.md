@@ -48,21 +48,7 @@ We offer comprehensive QA solutions:
 - Load Testing with JMeter
 - Security Audits and Vulnerability Assessments
 
-## Projects
 
-We have successfully tested and optimized software solutions for various industries:
-
-### [E-commerce Platform Testing](https://github.com/YourQAProfile/e-commerce-testing)
-Ensured seamless online shopping experience with automated and manual tests.
-
-### [Mobile App Quality Assurance](https://github.com/YourQAProfile/mobile-app-testing)
-Tested Android & iOS applications for functionality, performance, and security.
-
-### [Web Application QA](https://github.com/YourQAProfile/web-app-testing)
-End-to-end testing for web applications to ensure reliability and performance.
-
-### [API Testing & Automation](https://github.com/YourQAProfile/api-testing)
-Automated API tests for seamless backend integrations.
 
 ## GitHub Stats
 
