@@ -52,8 +52,8 @@ We offer comprehensive QA solutions:
 
 ## GitHub Stats
 
-![YourQAProfile's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaliwelalage_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourQAProfile&layout=compact&theme=radical)
+![sandaliwellalage's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandaliwellalage&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandaliwellalage&layout=compact&theme=radical)
 
 ## Connect with Us
 
